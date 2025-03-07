@@ -3,7 +3,7 @@
 ## Project Overview
 This is a web application designed to allow users to rate and review stores, with different user roles and functionality.
 
-## User Accounts For Refernce ---
+## User Accounts For Reference ---
 
 ### Admin Credentials
 - **Email**: admin@storerating.com
